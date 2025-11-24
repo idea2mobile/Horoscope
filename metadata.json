@@ -1,0 +1,5 @@
+{
+  "name": "Thai Astro Insight",
+  "description": "A Suriyayart-based Thai astrology application that generates a natal chart and prediction using Gemini AI.",
+  "requestFramePermissions": []
+}
